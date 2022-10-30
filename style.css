@@ -1,6 +1,12 @@
 html, body {
   margin: 0;
   padding: 0;
+  /* width: 60%; */
+}
+
+body {
+  width: 60%;
+  margin: 20px auto;
 }
 
 #header {
