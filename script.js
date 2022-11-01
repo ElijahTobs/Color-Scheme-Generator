@@ -1,5 +1,3 @@
-// let colorInput = document.getElementById("colorInput")
-// let colorMode = document.getElementById("mode")
 const getSchemeBtn = document.getElementById("getSchemeBtn")
 let colorSection = document.getElementById("colorSection")
 const colorBar = document.getElementById("colorBar")
@@ -24,4 +22,4 @@ function getColor() {
         })
 }
 
-// window.onload(getColor())
+window.onload(getColor())
