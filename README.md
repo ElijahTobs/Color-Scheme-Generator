@@ -6,7 +6,7 @@
 ## Description
 
 
-![image](https://user-images.githubusercontent.com/16058470/199255412-778940c0-3f26-401b-aece-6ff17b813d66.png)
+![image](https://user-images.githubusercontent.com/16058470/199346610-4d01ae72-9655-43fb-ad10-541d6e84c9fc.png)
 
 >  "Color Scheme Generator" is a simple website that displays different color schemes.
 You pick a color of your choice from the color input and select a scheme of your choice and get a corresponding color scheme delivered to you. The color scheme is fetched using the color API.
