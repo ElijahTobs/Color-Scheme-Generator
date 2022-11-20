@@ -50,7 +50,7 @@ And For tracking linter errors in JavaScript files run:
 ``` npx eslint . ```
 ## Live Demo
 
-See the live by clicking [Live Demo Link](https://tresorsawasawa.github.io/Awesome_books/)
+See the live by clicking [Live Demo Link](https://elijahtobs.github.io/Color-Scheme-Generator/)
 
 ## Author
 
