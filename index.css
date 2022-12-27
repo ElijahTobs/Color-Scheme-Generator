@@ -47,6 +47,10 @@ body {
 }
 
 #colorBar #color-hex {
+  color: rgb(248, 244, 240);
+  border-radius: 3px;
+  padding: 2px 3px;
+  background-color: rgb(15, 15, 15);
   position: relative;
   font-size: 13px;
   font-weight: 700;
