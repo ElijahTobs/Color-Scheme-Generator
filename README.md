@@ -47,7 +47,7 @@ And For tracking linter errors in JavaScript files run:
 
 ## Live Demo
 
-See the live by clicking [Live Demo Link](https://elijahtobs.github.io/Color-Scheme-Generator/)
+See the live by clicking [Live Demo Link](https://color-scheme-generator17.netlify.app/)
 
 ## Author
 
